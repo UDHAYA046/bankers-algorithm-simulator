@@ -1,3 +1,8 @@
+# Copyright (C) 2025 UDHAYA046
+# This program is licensed under GPLv3. See LICENSE file for details.
+# Unauthorized use without preserving this notice is a license violation.
+
+
 def get_matrix_input(rows, cols, name):
     print(f"\nEnter the {name} matrix values row-wise (space-separated):")
     matrix = []
