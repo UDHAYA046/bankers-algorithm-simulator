@@ -100,4 +100,6 @@ Amrita Vishwa Vidyapeetham, Bengaluru
 
 Feel free to connect or check this project in my profile's Project section!
 
-   
+##  LiCENSED
+Licensed under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) file for more details.
+
