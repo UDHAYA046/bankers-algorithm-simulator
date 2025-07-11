@@ -1,3 +1,8 @@
+# Copyright (C) 2025 UDHAYA046
+# This program is licensed under GPLv3. See LICENSE file for details.
+# Unauthorized use without preserving this notice is a license violation.
+
+
 import tkinter as tk
 from tkinter import messagebox
 
